@@ -14,7 +14,8 @@ manifest.mf
 *~.nib
 *.sln
 *.suo
-WS_FTP
+WS_FTP.*
+*.xml
 local.properties
 .settings/
 .loadpath
